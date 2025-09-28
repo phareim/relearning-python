@@ -1,1 +1,18 @@
+# Virtual environments
 .venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / config files
+.env
+*.env
+
+# macOS noise
+.DS_Store
+
+# IDE/editor stuff
+.vscode/
